@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matheesha rangamal</h1>
+<h1 align="center">Hi 👋, I'm Matheesha Rangamal</h1>
 <h3 align="center">Electronics & CS Undergraduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghamalm75&label=Profile%20views&color=0e75b6&style=flat" alt="raghamalm75" /> </p>
